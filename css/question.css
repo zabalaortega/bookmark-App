@@ -1,0 +1,11 @@
+@import "./carousel.css";
+
+.questions{
+    padding: 4em 0 8em;
+    text-align: center;
+}
+
+.questions > .wrapper > p{
+    max-width: 580px;
+    margin: auto;
+}

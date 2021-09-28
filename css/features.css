@@ -1,0 +1,11 @@
+@import "./tabs.css";
+
+.features{
+    text-align: center;
+    padding: 3em 0;
+}
+
+.features .wrapper > .p{
+    max-width: 580px;
+    margin: 0 auto;
+}
